@@ -8,6 +8,7 @@ class Assignment1
 		System.out.println("Hello World");
 		System.out.println("Jenkins-git Demo");
 		System.out.println("Result :"+add);
+		System.out.println("Hello world");
 
 	}
 
